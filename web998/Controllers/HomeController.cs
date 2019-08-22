@@ -12,6 +12,7 @@ namespace web998.Controllers
     {
         public IActionResult Index()
         {
+            // add some thing
             return View();
         }
 
